@@ -1,0 +1,19 @@
+{
+  "name": "express-4-and-node-server",
+  "version": "1.0.0",
+  "description": "A quick server using Express 4 and Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PurpleDogEnterprises/Express-4-and-Node-Server.git"
+  },
+  "author": "Purple Dog Enterprises",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PurpleDogEnterprises/Express-4-and-Node-Server/issues"
+  },
+  "homepage": "https://github.com/PurpleDogEnterprises/Express-4-and-Node-Server#readme"
+}
